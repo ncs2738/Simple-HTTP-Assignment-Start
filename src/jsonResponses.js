@@ -1,5 +1,4 @@
 const text = require('./textResponses.js');
-const image = require('./imageResponses.js');
 
 const getHelloJSON = (request,response) =>
 {
